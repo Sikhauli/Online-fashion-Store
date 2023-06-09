@@ -3,7 +3,7 @@ import { RiShoppingCartLine, RiUserLine } from 'react-icons/ri';
 import '../Style/Home.css';
 import '../font/font.css';
 import logo from '../Assets/HYde.png';
-import bg from '../Assets/images/imgg6.jpg';
+import bg from '../Assets/images/imgg7.jpg';
 import Slideshow from '../Components/slide';
 
 export default function Home() {
@@ -118,21 +118,21 @@ export default function Home() {
             <div id="footer-top-menu-container" role="menubar">
               <ul id="footer-top-menu" role="menu">
                 <li className="footer-top-menu-item" role="menuitem">
-                  <a href="#" className="footer-top-menu-link">IT Services</a>
+                  <a href="#" className="footer-top-menu-link"> Formal </a>
                 </li>
                 <li className="footer-top-menu-item footer-top-menu-item-active" role="menuitem">
-                  <a href="#" className="footer-top-menu-link">Web development</a>
+                  <a href="#" className="footer-top-menu-link"> Bohemian Wear</a>
                 </li>
                 <li className="footer-top-menu-item" role="menuitem">
-                  <a href="#" className="footer-top-menu-link">SEO</a>
+                  <a href="#" className="footer-top-menu-link"> Streetwear </a>
                 </li>
                 <li className="footer-top-menu-item" role="menuitem">
-                  <a href="#" className="footer-top-menu-link">UI/UX</a>
+                  <a href="#" className="footer-top-menu-link">Vintage</a>
                 </li>
               </ul>
             </div>
             <div id="footer-buttons-container">
-              <a href="#" className="footer-button" role="button">View our Projects</a>
+              <a href="#" className="footer-button" role="button">View our Design Projects</a>
             </div>
           </section>
           <section className="horizontal-footer-section" id="footer-middle-section">
