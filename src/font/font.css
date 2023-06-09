@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'UngaracaRegular';
+    src: url('./UngaracaRegular-DOm9E.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'GarelinaBold';
+    src: url('./GarelinaBold-rgZ0p.ttf') format('truetype');
+}
+
+@font-face{
+
+    font-family: 'GarelinaMedium';
+    src: url('./GarelinaMedium-MVeBw.ttf') format('truetype');
+
+}
+
+@font-face{
+    font-family: 'GarelinaRegular';
+    src: url('./GarelinaRegular-K791A.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'WestigaRegular';
+    src: url('./WestigaRegular-2OARw.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Milyuna';
+    src: url('./Milyuna-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+/* Example usage */
+.list-item {
+    font-family: 'UngaracaRegular', sans-serif;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+h1{
+
+    font-family: 'UngaracaRegular', sans-serif;
+    font-size: 42px;
+    font-weight: bold;
+
+}
+h5{
+        font-family: 'Milyuna', sans-serif;
+}
